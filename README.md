@@ -24,6 +24,8 @@
 
 ## Introduction
 
+Note: This repository is my personal vimwiki, and the reason why this exists is that I need to save some of my only configures specifially for html tmeplate and css template.
+
 VimWiki is a personal wiki for Vim -- a number of linked text files that have
 their own syntax highlighting. See the [VimWiki Wiki](https://vimwiki.github.io/vimwikiwiki/)
 for an example website built with VimWiki!
